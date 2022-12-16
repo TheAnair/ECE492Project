@@ -1,0 +1,6 @@
+This is the loss 
+0.07226389646530151
+This is the accuracy 
+0.9779999852180481
+Based on the file inputted, the Bi Directional LSTM Model predicts that the value is :
+3

@@ -1,0 +1,6 @@
+This is the loss 
+0.04711791127920151
+This is the accuracy 
+0.9851428866386414
+Based on the file inputted, the GRU Model predicts that the value is :
+7

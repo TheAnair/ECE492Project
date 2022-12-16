@@ -1,0 +1,6 @@
+This is the loss 
+2.3025970458984375
+This is the accuracy 
+0.10042857378721237
+Based on the file inputted, this RNN Model predicts that the value is :
+0

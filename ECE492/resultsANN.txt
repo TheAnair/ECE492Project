@@ -1,0 +1,6 @@
+This is the loss 
+0.0418865829706192
+This is the accuracy 
+0.9877856969833374
+Based on the file inputted, the ANN Model predicts that the value is :
+0

@@ -1,0 +1,6 @@
+This is the loss 
+0.03625693544745445
+This is the accuracy 
+0.9889285564422607
+Based on the file inputted, the CNN Model predicts that the value is :
+9
